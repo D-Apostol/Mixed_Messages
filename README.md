@@ -9,7 +9,7 @@ The project was created with:
 - Node
 
 ## Launch
-To launch the program download the script and run using node.js
+To launch the program download the script and run using node.js or your preferred REPL
 ```
 $ cd /folder
 $ node
