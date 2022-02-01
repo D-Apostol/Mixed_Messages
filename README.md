@@ -11,7 +11,7 @@ The project was created with:
 ## Launch
 To launch the program download the script and run using node.js
 ```
-cd /folder
-node
-.load script.js
+$ cd /folder
+$ node
+$ .load script.js
 ```
